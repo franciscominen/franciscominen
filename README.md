@@ -1,11 +1,11 @@
-#### Hi there 👋
+### Hi there 👋
 
 
-##### 🙋‍ I'm Francisco, front end developer and React lover from Argentina.
+#### 🙋‍ I'm Francisco, front end developer and React lover from Argentina.
 
-##### 💻 If you want you can check one of my projects: **[Superlista.ar](https://superlista.ar)**.
+#### 💻 If you want you can check one of my projects: **[Superlista.ar](https://superlista.ar)**.
 
-##### 📲 You can find me on **[Linkedin](https://www.linkedin.com/in/franciscominen/)**.
+#### 📲 You can find me on **[Linkedin](https://www.linkedin.com/in/franciscominen/)**.
 <!--
 **franciscominen/franciscominen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
