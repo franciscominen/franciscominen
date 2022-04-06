@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 
 
-#### 🙋‍ I'm Francisco, front end developer and React lover from Argentina.
+#### 🙋‍ I'm Francisco, front end developer, React and Vue lover from Argentina.
 
 #### 💻 If you want you can check one of my projects: **[Superlista.ar](https://superlista.ar)**.
 
